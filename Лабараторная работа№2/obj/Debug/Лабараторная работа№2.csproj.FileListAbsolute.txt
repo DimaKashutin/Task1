@@ -1,0 +1,15 @@
+D:\Microsoft Visual Studio2019\Proekts\Лабараторная работа№2\Лабараторная работа№2\bin\Debug\Лабараторная работа№2.exe.config
+D:\Microsoft Visual Studio2019\Proekts\Лабараторная работа№2\Лабараторная работа№2\bin\Debug\Лабараторная работа№2.exe
+D:\Microsoft Visual Studio2019\Proekts\Лабараторная работа№2\Лабараторная работа№2\bin\Debug\Лабараторная работа№2.pdb
+D:\Microsoft Visual Studio2019\Proekts\Лабараторная работа№2\Лабараторная работа№2\obj\Debug\Лабараторная работа№2.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio2019\Proekts\Лабараторная работа№2\Лабараторная работа№2\obj\Debug\MainWindow.g.cs
+D:\Microsoft Visual Studio2019\Proekts\Лабараторная работа№2\Лабараторная работа№2\obj\Debug\App.g.cs
+D:\Microsoft Visual Studio2019\Proekts\Лабараторная работа№2\Лабараторная работа№2\obj\Debug\Лабараторная работа№2_MarkupCompile.cache
+D:\Microsoft Visual Studio2019\Proekts\Лабараторная работа№2\Лабараторная работа№2\obj\Debug\Лабараторная работа№2_MarkupCompile.lref
+D:\Microsoft Visual Studio2019\Proekts\Лабараторная работа№2\Лабараторная работа№2\obj\Debug\MainWindow.baml
+D:\Microsoft Visual Studio2019\Proekts\Лабараторная работа№2\Лабараторная работа№2\obj\Debug\Лабараторная работа№2.g.resources
+D:\Microsoft Visual Studio2019\Proekts\Лабараторная работа№2\Лабараторная работа№2\obj\Debug\Лабараторная_работа_2.Properties.Resources.resources
+D:\Microsoft Visual Studio2019\Proekts\Лабараторная работа№2\Лабараторная работа№2\obj\Debug\Лабараторная работа№2.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio2019\Proekts\Лабараторная работа№2\Лабараторная работа№2\obj\Debug\Лабараторная работа№2.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio2019\Proekts\Лабараторная работа№2\Лабараторная работа№2\obj\Debug\Лабараторная работа№2.exe
+D:\Microsoft Visual Studio2019\Proekts\Лабараторная работа№2\Лабараторная работа№2\obj\Debug\Лабараторная работа№2.pdb
